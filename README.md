@@ -1,2 +1,2 @@
-# Barbeiro-Dorminhoco
-Problema do barbeiro dorminhoco em Threads no Java
+# Barbeiro Dorminhoco
+Problema do barbeiro dorminhoco com Threads no Java

@@ -104,8 +104,6 @@ public class Customer extends Thread {
                         e.printStackTrace();
                     }
                 }
-            } else {
-            
             }
         } else if (customerTurn == 3) {
             System.out.println("Toad (3) entrou na barbearia");
